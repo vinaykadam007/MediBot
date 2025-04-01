@@ -56,8 +56,8 @@ Update any configuration files (if needed) to match your environment settings. R
 ### Running MediBot
 **Launch the chatbot by running the main application:**
 
- ```bash
-python main.py
+    ```bash
+   python main.py
 
 This will start the conversational AI interface, and you can interact with MediBot to receive medical advice based on the input symptoms.
 
