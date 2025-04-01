@@ -54,17 +54,17 @@ Before running MediBot, ensure you have the following installed:
 Update any configuration files (if needed) to match your environment settings. Refer to the documentation for details on setting up API keys or custom medical data sources.
 
 ### Running MediBot
-Launch the chatbot by running the main application:
+**Launch the chatbot by running the main application:**
 
  ```bash
-python main.py```
+python main.py
 
 This will start the conversational AI interface, and you can interact with MediBot to receive medical advice based on the input symptoms.
 
 ## Usage
-Chat Interface: Start a conversation and describe your symptoms. MediBot will analyze the input and suggest possible conditions along with health recommendations.
+**Chat Interface:** Start a conversation and describe your symptoms. MediBot will analyze the input and suggest possible conditions along with health recommendations.
 
-API Integration: Developers can integrate MediBot into other applications using the provided REST API endpoints (if available). Refer to the API documentation for details.
+**API Integration:** Developers can integrate MediBot into other applications using the provided REST API endpoints (if available). Refer to the API documentation for details.
 
 ## Contributing
 Contributions are welcome! If you'd like to help improve MediBot, please follow these steps:
