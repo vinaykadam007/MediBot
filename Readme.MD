@@ -40,15 +40,15 @@ Before running MediBot, ensure you have the following installed:
 
 2. **Create a Virtual Environment (Optional):**
 
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows use: venv\Scripts\activate
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows use: venv\Scripts\activate
 
 
 3. **Install Dependencies:**
 
-```bash
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt```
 
 ### Configuration
 Update any configuration files (if needed) to match your environment settings. Refer to the documentation for details on setting up API keys or custom medical data sources.
