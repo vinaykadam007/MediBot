@@ -58,7 +58,7 @@ Update any configuration files (if needed) to match your environment settings. R
 
 **Launch the chatbot by running the main application:**
 
- 
+   ```bash
    python main.py
 
 
@@ -78,14 +78,17 @@ Create your feature branch:
 
 ```bash
 git checkout -b feature/new-feature
+
 Commit your changes:
 
 ```bash
 git commit -am 'Add new feature'
+
 Push to the branch:
 
 ```bash
 git push origin feature/new-feature
+
 Submit a pull request.
 
 Please read our CONTRIBUTING.md for more detailed guidelines.
