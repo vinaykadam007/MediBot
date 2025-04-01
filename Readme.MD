@@ -1,7 +1,7 @@
 # MediBot: AI-powered Medical Assistant
 MediBot is an intelligent medical chatbot designed to assist in preliminary diagnostics and provide health recommendations. It integrates a robust medical knowledge base to achieve reliable symptom analysis and early condition detection, offering scalable clinical support.
 
-Objective
+## Objective
 The primary objective of MediBot is to develop a conversational AI solution that:
 
 Assists users with preliminary diagnostics by analyzing symptoms.
@@ -10,7 +10,7 @@ Provides personalized health recommendations.
 
 Supports early detection of medical conditions for proactive care.
 
-Features
+## Features
 Symptom Analysis: Accurately analyzes user-reported symptoms to suggest possible conditions.
 
 Health Recommendations: Provides personalized guidance and health tips based on the analysis.
@@ -21,11 +21,8 @@ Robust Medical Knowledge Base: Leverages an extensive and up-to-date database of
 
 User-Friendly Interface: Simple, conversational interface that is easy to use for individuals seeking medical assistance.
 
-Demo
-Check out the live demo and detailed documentation on our GitHub repository.
-
-Getting Started
-Prerequisites
+## Getting Started
+### Prerequisites
 Before running MediBot, ensure you have the following installed:
 
 Python 3.8+
@@ -34,7 +31,7 @@ pip
 
 Virtual environment tool (optional but recommended)
 
-Installation
+### Installation
 Clone the Repository:
 
 bash
@@ -55,7 +52,7 @@ pip install -r requirements.txt
 Configuration
 Update any configuration files (if needed) to match your environment settings. Refer to the documentation for details on setting up API keys or custom medical data sources.
 
-Running MediBot
+### Running MediBot
 Launch the chatbot by running the main application:
 
 bash
@@ -63,12 +60,12 @@ Copy
 python main.py
 This will start the conversational AI interface, and you can interact with MediBot to receive medical advice based on the input symptoms.
 
-Usage
+## Usage
 Chat Interface: Start a conversation and describe your symptoms. MediBot will analyze the input and suggest possible conditions along with health recommendations.
 
 API Integration: Developers can integrate MediBot into other applications using the provided REST API endpoints (if available). Refer to the API documentation for details.
 
-Contributing
+## Contributing
 Contributions are welcome! If you'd like to help improve MediBot, please follow these steps:
 
 Fork the repository.
@@ -83,8 +80,8 @@ Submit a pull request.
 
 Please read our CONTRIBUTING.md for more detailed guidelines.
 
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Contact
+## Contact
 For any questions or suggestions, feel free to open an issue on GitHub or contact the project maintainer.
