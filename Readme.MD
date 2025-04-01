@@ -58,8 +58,9 @@ Update any configuration files (if needed) to match your environment settings. R
 
 **Launch the chatbot by running the main application:**
 
+   ```bash
    python main.py
-
+   ```
 
 ## Usage
 Chat Interface:
@@ -77,16 +78,19 @@ Contributions are welcome! If you'd like to help improve MediBot, please follow 
 
 ```bash
 git checkout -b feature/new-feature
+```
 
 3. **Commit your changes:**
 
 ```bash
 git commit -am 'Add new feature'
+```
 
 4. **Push to the branch:**
 
 ```bash
 git push origin feature/new-feature
+```
 
 5. **Submit a pull request.**
 
