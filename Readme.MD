@@ -61,33 +61,35 @@ Launch the chatbot by running the main application:
    ```bash
    python main.py
 
-
 ## Usage
 
-**Chat Interface:** Start a conversation and describe your symptoms. MediBot will analyze the input and suggest possible conditions along with health recommendations.
+- **Chat Interface:**  
+  Start a conversation and describe your symptoms. MediBot will analyze the input and suggest possible conditions along with health recommendations.
 
-**API Integration:** Developers can integrate MediBot into other applications using the provided REST API endpoints (if available). Refer to the API documentation for details.
+- **API Integration:**  
+  Developers can integrate MediBot into other applications using the provided REST API endpoints (if available). Refer to the API documentation for details.
 
 ## Contributing
 
 Contributions are welcome! If you'd like to help improve MediBot, please follow these steps:
 
 1. Fork the repository.
-
-2. Create your feature branch: git checkout -b feature/new-feature
-
-3. Commit your changes: git commit -am 'Add new feature'
-
-4. Push to the branch: git push origin feature/new-feature
-
+2. Create your feature branch:  
+   `git checkout -b feature/new-feature`
+3. Commit your changes:  
+   `git commit -am 'Add new feature'`
+4. Push to the branch:  
+   `git push origin feature/new-feature`
 5. Submit a pull request.
 
-Please read our CONTRIBUTING.md for more detailed guidelines.
+Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for more detailed guidelines.
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
 For any questions or suggestions, feel free to open an issue on GitHub or contact the project maintainer.
+
+
