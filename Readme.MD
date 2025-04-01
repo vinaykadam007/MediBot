@@ -38,14 +38,16 @@ Before running MediBot, ensure you have the following installed:
    git clone https://github.com/vinaykadam007/medibot.git
    cd medibot
 
-2. Create a Virtual Environment (Optional):
+2. **Create a Virtual Environment (Optional):**
 
+```bash
 python -m venv venv
 source venv/bin/activate  # On Windows use: venv\Scripts\activate
 
 
-3. Install Dependencies:
+3. **Install Dependencies:**
 
+```bash
 pip install -r requirements.txt
 
 ### Configuration
