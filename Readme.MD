@@ -1,87 +1,39 @@
 # MediBot: AI-powered Medical Assistant
+
 MediBot is an intelligent medical chatbot designed to assist in preliminary diagnostics and provide health recommendations. It integrates a robust medical knowledge base to achieve reliable symptom analysis and early condition detection, offering scalable clinical support.
 
 ## Objective
+
 The primary objective of MediBot is to develop a conversational AI solution that:
-
-Assists users with preliminary diagnostics by analyzing symptoms.
-
-Provides personalized health recommendations.
-
-Supports early detection of medical conditions for proactive care.
+- Assists users with preliminary diagnostics by analyzing symptoms.
+- Provides personalized health recommendations.
+- Supports early detection of medical conditions for proactive care.
 
 ## Features
-Symptom Analysis: Accurately analyzes user-reported symptoms to suggest possible conditions.
 
-Health Recommendations: Provides personalized guidance and health tips based on the analysis.
+- **Symptom Analysis:** Accurately analyzes user-reported symptoms to suggest possible conditions.
+- **Health Recommendations:** Provides personalized guidance and health tips based on the analysis.
+- **Scalable Clinical Support:** Designed to support a large user base, ensuring quick and reliable responses.
+- **Robust Medical Knowledge Base:** Leverages an extensive and up-to-date database of medical information.
+- **User-Friendly Interface:** Simple, conversational interface that is easy to use for individuals seeking medical assistance.
 
-Scalable Clinical Support: Designed to support a large user base, ensuring quick and reliable responses.
+## Demo
 
-Robust Medical Knowledge Base: Leverages an extensive and up-to-date database of medical information.
-
-User-Friendly Interface: Simple, conversational interface that is easy to use for individuals seeking medical assistance.
+Check out the live demo and detailed documentation on our [GitHub repository](https://github.com/vinaykadam007/medibot).
 
 ## Getting Started
+
 ### Prerequisites
+
 Before running MediBot, ensure you have the following installed:
-
-Python 3.8+
-
-pip
-
-Virtual environment tool (optional but recommended)
+- [Python 3.8+](https://www.python.org/downloads/)
+- [pip](https://pip.pypa.io/en/stable/installation/)
+- Virtual environment tool (optional but recommended)
 
 ### Installation
-Clone the Repository:
 
-bash
-Copy
-git clone https://github.com/vinaykadam007/medibot.git
-cd medibot
-Create a Virtual Environment (Optional):
+1. **Clone the Repository:**
 
-bash
-Copy
-python -m venv venv
-source venv/bin/activate  # On Windows use: venv\Scripts\activate
-Install Dependencies:
-
-bash
-Copy
-pip install -r requirements.txt
-Configuration
-Update any configuration files (if needed) to match your environment settings. Refer to the documentation for details on setting up API keys or custom medical data sources.
-
-### Running MediBot
-Launch the chatbot by running the main application:
-
-bash
-Copy
-python main.py
-This will start the conversational AI interface, and you can interact with MediBot to receive medical advice based on the input symptoms.
-
-## Usage
-Chat Interface: Start a conversation and describe your symptoms. MediBot will analyze the input and suggest possible conditions along with health recommendations.
-
-API Integration: Developers can integrate MediBot into other applications using the provided REST API endpoints (if available). Refer to the API documentation for details.
-
-## Contributing
-Contributions are welcome! If you'd like to help improve MediBot, please follow these steps:
-
-Fork the repository.
-
-Create your feature branch: git checkout -b feature/new-feature
-
-Commit your changes: git commit -am 'Add new feature'
-
-Push to the branch: git push origin feature/new-feature
-
-Submit a pull request.
-
-Please read our CONTRIBUTING.md for more detailed guidelines.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-## Contact
-For any questions or suggestions, feel free to open an issue on GitHub or contact the project maintainer.
+   ```bash
+   git clone https://github.com/vinaykadam007/medibot.git
+   cd medibot
