@@ -56,10 +56,10 @@ Update any configuration files (if needed) to match your environment settings. R
 
 ### Running MediBot
 
-Launch the chatbot by running the main application:
+**Launch the chatbot by running the main application:**
 
-   ```bash
-   python main.py```
+ 
+   python main.py
 
 
 ##Usage
