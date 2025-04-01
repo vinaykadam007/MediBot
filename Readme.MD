@@ -71,24 +71,24 @@ Developers can integrate MediBot into other applications using the provided REST
 ## Contributing
 Contributions are welcome! If you'd like to help improve MediBot, please follow these steps:
 
-1. Fork the repository.
+1. **Fork the repository.**
 
-2. Create your feature branch:
+2. **Create your feature branch:**
 
 ```bash
 git checkout -b feature/new-feature
 
-3. Commit your changes:
+3. **Commit your changes:**
 
 ```bash
 git commit -am 'Add new feature'
 
-4. Push to the branch:
+4. **Push to the branch:**
 
 ```bash
 git push origin feature/new-feature
 
-5. Submit a pull request.
+5. **Submit a pull request.**
 
 Please read our CONTRIBUTING.md for more detailed guidelines.
 
