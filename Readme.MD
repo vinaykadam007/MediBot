@@ -37,3 +37,49 @@ Before running MediBot, ensure you have the following installed:
    ```bash
    git clone https://github.com/vinaykadam007/medibot.git
    cd medibot
+
+2. Create a Virtual Environment (Optional):
+
+python -m venv venv
+source venv/bin/activate  # On Windows use: venv\Scripts\activate
+
+
+3. Install Dependencies:
+
+pip install -r requirements.txt
+
+### Configuration
+Update any configuration files (if needed) to match your environment settings. Refer to the documentation for details on setting up API keys or custom medical data sources.
+
+### Running MediBot
+Launch the chatbot by running the main application:
+
+python main.py
+
+This will start the conversational AI interface, and you can interact with MediBot to receive medical advice based on the input symptoms.
+
+## Usage
+Chat Interface: Start a conversation and describe your symptoms. MediBot will analyze the input and suggest possible conditions along with health recommendations.
+
+API Integration: Developers can integrate MediBot into other applications using the provided REST API endpoints (if available). Refer to the API documentation for details.
+
+## Contributing
+Contributions are welcome! If you'd like to help improve MediBot, please follow these steps:
+
+Fork the repository.
+
+Create your feature branch: git checkout -b feature/new-feature
+
+Commit your changes: git commit -am 'Add new feature'
+
+Push to the branch: git push origin feature/new-feature
+
+Submit a pull request.
+
+Please read our CONTRIBUTING.md for more detailed guidelines.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Contact
+For any questions or suggestions, feel free to open an issue on GitHub or contact the project maintainer.
