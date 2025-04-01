@@ -58,7 +58,6 @@ Update any configuration files (if needed) to match your environment settings. R
 
 **Launch the chatbot by running the main application:**
 
-   ```bash
    python main.py
 
 
@@ -72,24 +71,24 @@ Developers can integrate MediBot into other applications using the provided REST
 ## Contributing
 Contributions are welcome! If you'd like to help improve MediBot, please follow these steps:
 
-Fork the repository.
+1. Fork the repository.
 
-Create your feature branch:
+2. Create your feature branch:
 
 ```bash
 git checkout -b feature/new-feature
 
-Commit your changes:
+3. Commit your changes:
 
 ```bash
 git commit -am 'Add new feature'
 
-Push to the branch:
+4. Push to the branch:
 
 ```bash
 git push origin feature/new-feature
 
-Submit a pull request.
+5. Submit a pull request.
 
 Please read our CONTRIBUTING.md for more detailed guidelines.
 
