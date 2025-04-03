@@ -17,10 +17,6 @@ The primary objective of MediBot is to develop a conversational AI solution that
 - **Robust Medical Knowledge Base:** Leverages an extensive and up-to-date database of medical information.
 - **User-Friendly Interface:** Simple, conversational interface that is easy to use for individuals seeking medical assistance.
 
-## Demo
-
-Check out the live demo and detailed documentation on our [GitHub repository](https://github.com/vinaykadam007/medibot).
-
 ## Getting Started
 
 ### Prerequisites
